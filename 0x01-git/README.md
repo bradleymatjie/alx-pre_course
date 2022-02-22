@@ -1,2 +1,2 @@
 my first exercise
-up to date
+is now updated
